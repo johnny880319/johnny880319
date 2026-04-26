@@ -9,7 +9,6 @@ Senior AI Engineer @ ASUS · M.S. Mathematics, NTU
 - CKHS Science Class · NTU Math · ASUS AI
 - GenAI · Mathematical Optimization · Real-time Voice
 - Python → Rust
-- Open Source: [Distributed Whisper Streaming](https://github.com/johnny880319/whisper_streaming)
 
 [Resume](https://github.com/johnny880319/my-resume/) · [Blog](https://rambling-blog.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tsung-yi-ma-44bb6a268) · [Email](mailto:johnny880319@gmail.com)
 
